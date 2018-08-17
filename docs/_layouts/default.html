@@ -19,12 +19,10 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        <ol class="menu">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="faqs.html">FAQs</a></li>
-          <li><a href="tutorial.html">Tutorial</a></li>
-          <li><a href="analysis-example/analysis-my-first-mothulity-project.html">Output Example</a></li>
-        </ol>
+        <a href="index.html">Home</a>
+        <a href="faqs.html">FAQs</a>
+        <a href="tutorial.html">Tutorial</a>
+        <a href="analysis-example/analysis-my-first-mothulity-project.html">Output Example</a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
