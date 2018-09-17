@@ -1,4 +1,4 @@
-remote_theme: benbalter/retlab
+remote_theme: poole/hyde
 title: mothulity project
 description: run mothur with single command
 logo: /assets/img/logo.png
