@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+sidebar_link: true
 ---
 
 # Hello from the ```home.md``` page, separate from the ```index.html```.
