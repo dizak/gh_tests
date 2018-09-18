@@ -3,6 +3,7 @@
 # only main files contain this front matter, not partials.
 ---
 
-$sidebar-width: 50rem !default;
+$sidebar-width: 50rem;
+$sidebar-bg-color: #ac4142;
 $sidebar-sticky: false;
 @import "hydeout";
