@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Edge Case: Nested and Mixed Lists"
+categories: Cheminfibb News
 ---
 
 # Test Post
