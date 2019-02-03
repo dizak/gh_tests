@@ -1,4 +1,3 @@
-remote_theme: fongandrew/hydeout
+remote_theme: mmistakes/so-simple-theme
 title: This is a very, very long name
-description: 'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 paginate: 5
